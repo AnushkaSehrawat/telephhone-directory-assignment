@@ -1,0 +1,10 @@
+.heading h3 {
+    /* margin-left: 20%; */
+    margin: 0 auto;
+    font-family: cursive;
+}
+
+.logout {
+    margin-top: 20px;
+    cursor: pointer;
+}

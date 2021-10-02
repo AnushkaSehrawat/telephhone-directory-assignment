@@ -1,0 +1,29 @@
+.search-component {
+    display: inline-flex;
+    width: 100%;
+}
+
+.search-icon {
+    margin-left: 15px;
+    height: 35px;
+    width: 50px;
+    background: rgb(0, 114, 206);
+    margin-top: 5px;
+    border: 2px solid rgb(0, 114, 206);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.search-icon svg {
+    margin-top: 5px;
+    color: white;
+    margin-left: 13px;
+}
+
+.reset {
+    background-color: rgb(0, 114, 206) !important;
+    color: white !important;
+    margin-left: 10px;
+    height: 35px;
+    margin-top: 5px;
+}

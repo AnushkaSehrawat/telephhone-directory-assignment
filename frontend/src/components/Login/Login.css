@@ -1,0 +1,81 @@
+.login-card {
+    width: 350px;
+    margin: 0 auto;
+    height: fit-content;
+    margin-top: 130px;
+}
+
+.login-card .MuiCard-root {
+    height: 100%;
+}
+
+.reltio-login-logo {
+    margin: 0 auto;
+    display: block;
+    height: 60px;
+}
+
+.login-card .MuiFormControl-root {
+    display: block !important;
+    margin-top: 20px;
+}
+
+.login-card .MuiInput-formControl {
+    width: 90%;
+}
+
+.login-details {
+    margin-top: 40px;
+}
+
+.forgot-password-link {
+    color: #B0B0B0;
+    margin-top: 8px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.forgot-password-link:hover {
+    color: #f50057;
+}
+
+.login-action .MuiButton-containedSecondary {
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    margin-top: 50px;
+    font-weight: bolder;
+}
+
+.login-bottom-text {
+    color: gray;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.login-details .MuiInputBase-input {
+    font-size: 20px !important;
+    color: black !important;
+}
+
+.background-login-image {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #2278ca;
+}
+
+.background-login-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.error-msg {
+    color: red;
+    text-align: center;
+}

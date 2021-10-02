@@ -1,0 +1,54 @@
+.home {
+    margin-top: 80px;
+}
+
+.create-contact-btn button {
+    float: right;
+    margin: 20px;
+    background: rgb(0, 114, 206);
+    color: white;
+}
+
+.create-contact-btn button:hover {
+    background: rgb(0, 114, 206);
+    color: white;
+}
+
+.MuiCircularProgress-colorPrimary {
+    color: #0072ce !important;
+}
+
+.loader-overlay {
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(256, 256, 256, 0.8);
+    z-index: 1000000;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.react-loader {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    z-index: 10000000;
+}
+
+.general-popover .MuiPopover-paper {
+    width: 350px;
+    height: 50px;
+}
+
+.info-msg {
+    padding: 7px;
+    font-weight: bold;
+    color: gray;
+}
+
+.search {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 80px;
+}

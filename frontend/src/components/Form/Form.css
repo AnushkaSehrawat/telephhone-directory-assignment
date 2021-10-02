@@ -1,0 +1,77 @@
+.form-data {
+    margin-top: 80px !important;
+    width: 70%;
+    margin: 0 auto;
+    height: fit-content;
+}
+
+.single-form-field .MuiFormControl-root {
+    width: 65%;
+}
+
+.links {
+    color: #1E90FF;
+    cursor: pointer;
+    position: absolute;
+}
+
+.action-section button,
+.change-order-button {
+    background-color: #1E90FF !important;
+    color: white !important;
+}
+
+.close-icon {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    color: gray;
+}
+
+.change-order-button {
+    width: 100px;
+}
+
+.change-order-section {
+    height: 150px;
+    width: 400px;
+}
+
+.change-order-section .MuiFormControl-root {
+    width: 70%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.action-section button:hover,
+.change-order-button:hover {
+    background-color: #1E90FF !important;
+    color: white;
+}
+
+.submit {
+    width: fit-content;
+    float: right;
+    margin-right: 20px;
+}
+
+.submit-btn {
+    width: fit-content;
+    font-weight: bold;
+    background: linear-gradient(#fcfcfc, #f1f1f1) padding-box
+}
+
+.single-form-field p {
+    font-weight: bold;
+    color: #989898;
+    margin-bottom: 0px;
+}
+
+.single-form-field {
+    margin-top: 20px !important;
+    height: 80px;
+}
+
+.entire-form {
+    margin-bottom: 30px;
+}

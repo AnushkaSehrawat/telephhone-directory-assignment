@@ -1,0 +1,15 @@
+.create-contact {
+    margin-top: 80px;
+}
+
+.fields {
+    margin: 30px !important;
+}
+
+.MuiFormLabel-asterisk {
+    color: red;
+}
+
+.fields .MuiFormControl-root {
+    width: 100%;
+}
