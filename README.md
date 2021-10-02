@@ -5,8 +5,8 @@ Commands to run frontend(React js application)
 2. npm start
 
 Note: Username and password to access the application:
-Username: Test User
-Password: 12345
+Username: Test User <br/>
+Password: 12345<br/>
 
 
 Commands to run backend(Nodejs application)
