@@ -1,6 +1,6 @@
 # telephhone-directory-assignment
 
-Commands to run frontend(React js application)
+Commands to run frontend(React js application) (Note: Navigate to the frontend directory)
 1. npm install
 2. npm start
 
@@ -9,6 +9,6 @@ Username: Test User <br/>
 Password: 12345<br/>
 
 
-Commands to run backend(Nodejs application)
+Commands to run backend(Nodejs application) (Note: Navigate to the backend directory)
 1. npm install
 2. npm start
